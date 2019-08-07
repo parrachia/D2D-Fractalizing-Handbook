@@ -35,7 +35,7 @@ Every DAO is born from specific needs. But it is very common that its members th
 
 ### **1.1 Proposal**
 
-The fractalizing usually starts from the applicantDAO's initiative. They contacts us and tell us about them and their goals and situation. Based on this, a **proposal** is formalized, materializing the ideas and objectives that the applicantDAO has in the services that we can offer to provide value in their product.
+The fractalizing usually starts from the applicantDAO's initiative. They contacts us and tell us about them, their goals and situation. Based on this, a **proposal** can be formalized, materializing the ideas and objectives that the applicantDAO has in the services that we can offer to provide value in their product.
 
 **The proposal should contain:**
 
@@ -49,8 +49,6 @@ The fractalizing usually starts from the applicantDAO's initiative. They contact
 Although accepting or rejecting a proposal may make a priori seem like a rational decision, much of it is based on the emotional. For this reason, we must never neglect the detail, narrative, and graphics quality of our proposal: it must be a reflection of what we are offering and be clearly aligned with the identity and culture of our study.
 
 Once the proposal has been approved, where the services are to be carried out and the objectives to be achieved have been defined, they are documented in Notion and the tasks are transferred to Asana. 
-
-
 
 ### 2. Understanding
 
