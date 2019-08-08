@@ -27,8 +27,8 @@ To truly open up the possibilities of fractalized DAOs, we need custom tailored 
 
 ### Previous Fractalization
 
-* dOrg
 * [dxDAO](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830/proposal/0x91e5698c4135010c2d5fc9f99fcff88450fcc45596f8baff3666fa7cd855a00f)
+* [dOrg](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830/proposal/0xf6f19ba36227d6b83c68709d11d74f7f46709edd192865eb2f219f6ea245f944)
 * [PragueDAO](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830/proposal/0xaebc8d96eb20025fe429bdcea60edaac8febe1d6503a3f4e2cada2cb2afbaf33)
 * [CuraDAO](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830/proposal/0xab0abf6fe23e9a2586a8352eae997fd590b601b1d53a4b1e23c2084953ac8f06)
 
