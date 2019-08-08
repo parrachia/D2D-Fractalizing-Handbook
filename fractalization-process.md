@@ -164,15 +164,15 @@ But it can be much more than that. In our case, [multiple templates](templates/)
       </td>
     </tr>
   </tbody>
-</table>{% page-ref page="templates/" %}
-
-{% hint style="info" %}
+</table>{% hint style="info" %}
 This “presentation” could be a forum thread, a complete AMA, or a pre-recorded video, or a live video presentation, a pitch deck or even a simple pre-proposal document.
 {% endhint %}
 
+{% page-ref page="templates/" %}
+
 ### **3. Proposal**
 
-The fractalizations are born from the DAOs' needs. DAO citizens reach out to each other and after introductions are made the receiverDAO may present its needs and requirements through an **Orientation**, be it with documentation, onboarding session or both. ****Based on this, a **proposal** can be formalized, materializing compatible ideas, objectives and agreements that the applicantDAO can offer to provide value to the ecosystem.
+The fractalizations are born from the DAOs' needs. DAO citizens reach out to each other and after **introductions** are made**,** the receiverDAO may present its needs and requirements through **orientation**, be it with documentation, onboarding session or both. ****Based on this, a **proposal** can be formalized, materializing compatible ideas, objectives and agreements that the applicantDAO can offer to provide value to the ecosystem.
 
 {% hint style="info" %}
 More mature DAOs will most likely have extensive documentation about itself while preDAOs might produce information on demand. 
@@ -192,13 +192,11 @@ More mature DAOs will most likely have extensive documentation about itself whil
 
 Although accepting or rejecting a proposal may make a priori seem like a rational decision, much of it is based on the emotional. For this reason, we must never neglect the detail, narrative, and graphics quality of our proposals: it must be a reflection of what it's being offering and be clearly aligned with the identity and culture of our study.
 
-Once the proposal has been approved, where the services are to be carried out and the objectives to be achieved have been defined, they are documented in the proper channels and shared in the main channels of communication.
+Once the proposal has been approved, where the services are to be carried out and the objectives to be achieved have been defined, they are documented in the proper channels and shared in the main channels of communication from both DAOs.
 
 {% hint style="warning" %}
-In a final note, after a successful voting, a series of checks and balances should take place according to the previous agreements - e.g. against reputation exploits. Consistent, decentralized accountability practices are highly recommended, like an [Accountability Task Force](https://ecosystem.daoincubator.org/atf/) \(ATF\) or a [Decentralized Accountability Network](https://docs.google.com/document/d/1LLdsYCQi2fDiV2svFEzZGgsYn81cLlcfQ3kE_1OrKwo/edit?usp=sharing) \(DANk\).
+As final note, after a successful voting, a series of checks and balances should take place according to previous agreements - e.g. against reputation exploits. Consistent, decentralized accountability practices are highly recommended, like an [Accountability Task Force](https://ecosystem.daoincubator.org/atf/) \(ATF\) or a [Decentralized Accountability Network](https://docs.google.com/document/d/1LLdsYCQi2fDiV2svFEzZGgsYn81cLlcfQ3kE_1OrKwo/edit?usp=sharing) \(DANk\).
 {% endhint %}
-
-{% page-ref page="templates/" %}
 
 ## Meme
 
