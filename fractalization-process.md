@@ -1,7 +1,7 @@
 ---
 description: >-
   "Fractalization is nothing but a decentralized game of signaling and
-  screening, whatever that means." Pedro Parrachia
+  screening, whatever that means." @pedroparrachia
 ---
 
 # Fractalization Process
@@ -10,9 +10,7 @@ description: >-
 
 **The importance of having a process**
 
-> We overestimate the event and underestimate the process. Every fulfilled dream occurred because of dedication to the process.
->
-> – John C. Maxwell
+> "We overestimate the event and underestimate the process. Every fulfilled dream occurred because of dedication to the process." John C. Maxwell
 
 A well-structured and mature process is one of the keys to the success of any project. And although each DAO is a World in itself, there are numerous patterns that over time we have been developing and assimilating, finding these recurring paths to help us achieve uniquely different results for each D2D interaction we embark on.
 
@@ -24,7 +22,7 @@ We are not going to talk about a single process. It will not be a one-off discou
 
 ## **DAO Ambassadorship opening**
 
-Some specific members of a DAO would like to consolidate a bridge between their DAO and the receiverDAO through them rather than full, open, D2D participation. Considering the massive complexities DAOs are facing, this can be a wise temporary choice. The only thing to do is to confirm that their DAO consents to be partially represented by those members.
+Some specific members of a DAO would like to consolidate a bridge between their DAO and the receiverDAO through them rather than full D2D participation as interDAO. Considering the massive complexities DAOs are facing, this can be a wise temporary choice. The only thing to do is to confirm that their DAO consents to be partially represented by those members.
 
 ## **SubDAO recognition**
 
@@ -34,8 +32,8 @@ When starting a DAO from scratch, but inside the receiverDAO, the process will b
 
 When a DAO requests to join another DAO. This scenario is the most complete, so it is the one we're going to develop here. It requires an overview and consists of 3 phases.
 
-* A receiverDAO wants to **onboard** new members, including other DAOs
-* An applicantDAO wants to **apply** for membership in a receiverDAO
+* The receiverDAO wants to **onboard** new members, including other DAOs
+* An applicantDAO wants to **apply** for membership in the receiverDAO
 * The actual fractalizing **voting**
 
 ### 1. Preparation

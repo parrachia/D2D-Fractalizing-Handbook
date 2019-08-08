@@ -6,8 +6,8 @@ description: “Assumptions are the termites of relationships.” Henry Winkler
 
 The fractalization of DAOs has several implications on the topology of the DAO space, in the sense that a series of new DAO shapes and relations become possible once DAOs can join DAOs. In this section, we’ve taken a stab at defining these new forms and some related concepts and we will share our basic conceptualization at different levels. Finally we will take it further by attempting at illustrating some of them. 
 
-{% hint style="info" %}
-A brief comment about the limitations of systematics: A guy once tweeted he dreamed he was being interviewed about taxonomy “Are hotdogs sandwiches?” he was asked. “They’re edge cases that prove how limited our taxonomical models are.”
+{% hint style="warning" %}
+A brief comment about the limitations of systematics: A guy once tweeted he dreamed about being interviewed about taxonomy “Are hotdogs sandwiches?” he was asked. “They’re edge cases that prove how limited our taxonomical models are.”
 {% endhint %}
 
 ## Fractalizing
@@ -38,7 +38,7 @@ A preDAO is, quite simply, an aspirational DAO -- a group of individuals who hav
 
 ## DAO ambassadorship‌
 
-This occurs when aliceDAO instructs one or more of its members to join bobDAO in order to consolidate membership within bobDAO without joining it as an interDAO.‌
+Some specific members of a DAO would like to consolidate a bridge between their DAO and the receiverDAO through them rather than ful D2D participation as interDAO. Considering the massive complexities DAOs are facing, this can be a wise temporary choice.
 
 ## New Attack Vectors
 
@@ -46,25 +46,23 @@ This occurs when aliceDAO instructs one or more of its members to join bobDAO in
 
 A measure of the amount of reputation power that individuals wield in a DAO as a result of belonging to an interDAO that’s a member of it.‌ If a person accumulates reputation in multiple fractalized DAOs there is a possibility of an unhealthy accumulation of reputation that could output unbalanced voting power.
 
-**Mitigation:** instead of attempting to track each person's reputation we'd rather focus on checking if all interDAOs have a healthy distribution of reputation among its members. As long as all DAOs that participate in a receiverDAO have a sufficiently diluted reputation distribution dRep shouldn't be a real issue. 
+**Mitigation:** instead of attempting to track each person's reputation we'd rather focus on checking if the interDAOs have a healthy distribution of reputation among its members. As long as all DAOs that participate in a receiverDAO have a sufficiently diluted reputation distribution, dRep shouldn't be a real issue. 
 
 ### Swarming <a id="swarming"></a>
 
-A new attack vector from D2D interactions: if too many members of one or more interDAO join genDAO to the point of tipping some balance, allowing for biased, unbalanced voting power in detriment of other interDAOs and even the main DAO itself.
+A new attack vector from D2D interactions: if too many members of one or more interDAO join genDAO to the point of tipping the scale, allowing for biased, unbalanced voting power in detriment of other interDAOs and even the receiverDAO itself.
 
-**Mitigation:** "trusted setup", when a DAO first decides to fractalize it should aim at onboarding as many "trusted" or simply "healthy" DAOs as possible, granting a much bigger threshold against such vectors. 
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LYSSKOPUjmfbvn6hc2p%2F-Ll1ScoAG0e9_I8OCjJg%2F-Ll1Sjc6wxkDyPEtSzlF%2FSelection_048.png?alt=media&token=91392dec-9264-4396-9478-bbf2847c046e)
+**Mitigation:** "trusted setup", when a DAO first decides to fractalize, it should aim at onboarding as many "trusted" or simply "healthy" DAOs as possible, granting a much bigger threshold against such vectors. 
 
 ### Trojan Horse
 
 When an agreement \(usually from a proposal\) is followed or delivered differently from what was proposed and eventually benefits an interDAO in detriment of the receiverDAO. 
 
-Mitigation: active, healthy accountability practices.
+**Mitigation**: active, healthy decentralized accountability practices.
 
 ## Meme
 
-![](.gitbook/assets/asymmetric-information.png)
+![&quot;It&apos;s getting dark, we should head back&quot; &quot;The stars will guide us&quot; &quot;...&quot;](.gitbook/assets/estrelas-nos-guiarao.jpg)
 
 
 

@@ -34,5 +34,7 @@ To truly open up the possibilities of fractalized DAOs, we need custom tailored 
 
 ## Meme
 
-![&quot;It&apos;s getting dark, we should head back&quot; &quot;The stars will guide us&quot; &quot;...&quot;](.gitbook/assets/estrelas-nos-guiarao.jpg)
+![](.gitbook/assets/asymmetric-information.png)
+
+
 
