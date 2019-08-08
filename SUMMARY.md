@@ -7,7 +7,7 @@
 * [Templates](templates/README.md)
   * [Alchemy Proposals](templates/alchemy-proposals.md)
   * [DAO Pitch Deck](templates/dao-pitch-deck.md)
-  * [DAOkitchen](templates/daokitchen.md)
+  * [DAO Design Canvas](templates/daokitchen.md)
   * [Form](templates/form.md)
   * [Video Guidelines](templates/video-guidelines.md)
 

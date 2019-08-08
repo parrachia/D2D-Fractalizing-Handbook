@@ -4,29 +4,29 @@ description: “Assumptions are the termites of relationships.” Henry Winkler
 
 # Knowledge Management
 
-The fractalization of DAOs has several implications on the topology of the DAO space, in the sense that a series of new DAO shapes and relations become possible once DAOs can join DAOs. In this section, we’ve taken a stab at defining these new forms and some related concepts and we will share our basic conceptualization at different levels. Finally we will take it further by attempting at illustrating some of them. 
+The fractalization of DAOs has several implications on the topology of the DAO space, in the sense that a series of new DAO shapes and relations become possible once DAOs can join DAOs. In this section, we’ve taken a stab at defining these new forms, some related concepts and we will share our basic conceptualization at different levels. Finally we will take it further by attempting at illustrating some of them. 
 
 {% hint style="warning" %}
-A brief comment about the limitations of systematics: A guy once tweeted he dreamed about being interviewed about taxonomy “Are hotdogs sandwiches?” he was asked. “They’re edge cases that prove how limited our taxonomical models are.”
+A brief comment about the limitations of systematics: A guy once tweeted he dreamed being interviewed about taxonomy “Are hotdogs sandwiches?” he was asked. “They’re edge cases that prove how limited our taxonomical models are.”
 {% endhint %}
 
 ## Fractalizing
 
-When a DAO accepts another DAO as its member, usually by reputation granting. There are 2 main ways that a DAO can fractalize: one is the emergence of a DAO inside another DAO \(subDAO\), and the other is for one DAO to grant another DAO voting power \(interDAO\).‌
+When a DAO accepts another DAO as its member, usually by reputation granting. There are 2 main ways that a DAO can fractalize: one is the emergence of a DAO inside another DAO \(subDAO\), and the other is for one DAO to grant voting power to another DAO \(interDAO\).‌
 
 From the multiple and sometimes confusing dynamics that fractalizing brings, we work a nomenclature around their objectives. We distinguish five types of DAO according to their objectives: **subDAO**, **interDAO**, **applicantDAO**, **receiverDAO** and **preDAO**.
 
 ### subDAO‌
 
-The literal fractal DAO; one which exists inside a DAO, such that all of its operations are contained within that receiver DAO.‌
+The literal fractal DAO; one which exists inside a DAO, such that all of its operations are contained within that receiverDAO.‌
 
 ### interDAO
 
-A DAO which holds voting power in genDAO but is not a subDAO of genDAO, i.e. it also operates outside of genDAO.‌
+A DAO which holds voting power in genDAO but is not a subDAO of the receiverDAO, i.e. it also operates outside of it.‌
 
 ### applicantDAO
 
-A candidate subDAO or interDAO in the process of requesting membership - usually in the form of reputation 
+A candidate subDAO or interDAO in the process of requesting membership - usually in the form of reputation.
 
 ### **receiverDAO**
 
@@ -38,7 +38,7 @@ A preDAO is, quite simply, an aspirational DAO -- a group of individuals who hav
 
 ## DAO ambassadorship‌
 
-Some specific members of a DAO would like to consolidate a bridge between their DAO and the receiverDAO through them rather than ful D2D participation as interDAO. Considering the massive complexities DAOs are facing, this can be a wise temporary choice.
+Some specific members of a DAO would like to consolidate a bridge between their DAO and the receiverDAO through themselves rather than ful D2D participation as interDAO. Considering the massive complexities DAOs are facing, this can be a wise temporary choice.
 
 ## New Attack Vectors
 
@@ -50,7 +50,7 @@ A measure of the amount of reputation power that individuals wield in a DAO as a
 
 ### Swarming <a id="swarming"></a>
 
-A new attack vector from D2D interactions: if too many members of one or more interDAO join genDAO to the point of tipping the scale, allowing for biased, unbalanced voting power in detriment of other interDAOs and even the receiverDAO itself.
+A new attack vector from D2D interactions: if too many members of one or more interDAO join a receiverDAO, at some point it tips the scale, allowing for biased, unbalanced voting power in detriment of other interDAOs and even the receiverDAO itself.
 
 **Mitigation:** "trusted setup", when a DAO first decides to fractalize, it should aim at onboarding as many "trusted" or simply "healthy" DAOs as possible, granting a much bigger threshold against such vectors. 
 
@@ -58,7 +58,7 @@ A new attack vector from D2D interactions: if too many members of one or more in
 
 When an agreement \(usually from a proposal\) is followed or delivered differently from what was proposed and eventually benefits an interDAO in detriment of the receiverDAO. 
 
-**Mitigation**: active, healthy decentralized accountability practices.
+**Mitigation**: active, healthy, decentralized accountability practices.
 
 ## Meme
 

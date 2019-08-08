@@ -1,4 +1,4 @@
-# DAOkitchen
+# DAO Design Canvas
 
 ## All canvases
 

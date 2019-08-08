@@ -10,15 +10,23 @@ Previously on genDAO, a proposal successfully validated this list of templates f
 
 {% page-ref page="alchemy-proposals.md" %}
 
+## Form
+
+A form can be a great asset for any DAO considering opening itself for fractalization. Besides clearer topics of interest, in the long term a single spreadsheet with most or all interDAOs answers can be a great asset for the ecosystem.
+
+What follows bellow is a long list of questions that can be freely answered or skipped. From raison d'être, to business plan, to partners and beyond. 
+
+{% page-ref page="form.md" %}
+
 ## DAO Pitch Deck
 
 As a great supporting format, presentations have the power to help synthesize and condense information in a way that greatly increases engagement and awareness. Just don't forget to add some memes. This template was developed by Eric Arsenault as part of the DMO.
 
 {% page-ref page="dao-pitch-deck.md" %}
 
-## [DAOkitchen](https://docs.google.com/document/d/1erwDj5Xr4S1uPeeNdKZE1A2Mw-gla-0g5SxQZ-AWc90/edit)
+## [DAO Design Canvas](https://docs.google.com/document/d/1erwDj5Xr4S1uPeeNdKZE1A2Mw-gla-0g5SxQZ-AWc90/edit)
 
-DAO kit\(chen\) is a series of canvas that allow for a quite polished process of defining how will a DAO work. Thanks to its molecularity it can also be used to describe how an applicantDAO works. By Felipe Duarte.
+DAO Design Canvas \(aka DAOkitchen\)A kit for understanding and prototyping DAO Pilots in a Workshop / Sprint scenario that delivers highly qualified leads & user testing data. Thanks to its molecularity it can also be used to describe how an applicantDAO works. By Felipe Duarte.
 
 From the its documentation:
 
@@ -31,14 +39,6 @@ From the its documentation:
 * Delivers consistent validation data
 
 {% embed url="https://www.google.com/url?q=https://drive.google.com/drive/folders/1JVnVQOS3tGw\_GtFfzjNjlvLqamp17sZH&sa=D&ust=1564722945009000&usg=AFQjCNFY4WcHRdWal8w9eZ7mpsVY91afrQ" %}
-
-## Form
-
-A form can be a great asset for any DAO considering opening itself for fractalization. Besides clearer topics of interest, in the long term a single spreadsheet with most or all interDAOs answers can be a great asset for the ecosystem.
-
-What follows bellow is a long list of questions that can be freely answered or skipped. From raison d'être, to business plan, to partners and beyond. 
-
-{% page-ref page="form.md" %}
 
 ## [Video Presentation](https://docs.google.com/document/d/1oilPFlKq13So82LxYouvmoiNNVH1VE7rKfwCsaTLyLA/edit?usp=sharing)
 

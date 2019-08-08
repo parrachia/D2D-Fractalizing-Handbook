@@ -75,13 +75,13 @@ Some agreements may include:
   * should read all the basic documentation about the receiverDAO
     * and from there agree with core values and non-negotiable practices
   * must abide to a reputation cap policy
-    * limiting the total amount of reputation that any member is allowed to hold, including derivative reputation \(more about drep [here](knowledge-management.md)\)
+    * limiting the total amount of reputation that any member is allowed to hold, including derivative reputation \(more about dRep [here](knowledge-management.md)\)
   * must agree to use a specific setup of a multisig and/or dapp \(Alchemy, Gnosis safe\) in order to participate in the voting process
   * has the right to vote on proposals as they see fit and are themselves free to create proposals at their discretion
 
 ### 2. Signaling
 
-After the applicantDAO screens the receiverDAO, learning of its value proposition, its principles and mission, to understand its core. Then it should signal back to the receiverDAO about itself, offering the same courtesy from the preparation phase. After signaling and incorporating feedbacks, everything is gathered in this stage and finally a proposal can be made.
+After the applicantDAO screens the receiverDAO, learning of its value proposition, its principles and mission, to understand its core. Then it should signal back to the receiverDAO about itself, offering the same courtesy from the previous phases. After signaling and incorporating feedbacks, everything is gathered in this stage and finally a proposal can be made.
 
 This point is especially crucial. **Laying a good foundation** establishes a healthy relationship with the receiverDAO and helps to arrive at informed decisions in an agile manner. 
 
@@ -116,8 +116,8 @@ But it can be much more than that. In our case, [multiple templates](templates/)
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>What&#x2019;s the purpose of their DAO, and if applicable, their business
-            model/DAO model?</li>
+          <li>What&#x2019;s the purpose of their DAO, and if applicable, their business/DAO
+            model?</li>
         </ul>
       </td>
     </tr>
@@ -127,8 +127,8 @@ But it can be much more than that. In our case, [multiple templates](templates/)
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>What is the DAO&#x2019;s internal roadmap? And what is their roadmap relative
-            to genDAO?</li>
+          <li>What is the DAO&#x2019;s internal roadmap? And their roadmap relative
+            to receiverDAO?</li>
         </ul>
       </td>
     </tr>
@@ -148,7 +148,7 @@ But it can be much more than that. In our case, [multiple templates](templates/)
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Why join this DAO and why as another DAO and not differently?</li>
+          <li>Why join the receiverDAO and why as another DAO and not differently?</li>
         </ul>
       </td>
     </tr>
@@ -192,7 +192,7 @@ More mature DAOs will most likely have extensive documentation about itself whil
 
 Although accepting or rejecting a proposal may make a priori seem like a rational decision, much of it is based on the emotional. For this reason, we must never neglect the detail, narrative, and graphics quality of our proposals: it must be a reflection of what it's being offering and be clearly aligned with the identity and culture of our study.
 
-Once the proposal has been approved, where the services are to be carried out and the objectives to be achieved have been defined, they are documented in the proper channels and shared in the main channels of communication from both DAOs.
+Once the proposal has been approved, where the services are to be carried out and the objectives to be achieved have been defined, they are documented in the proper channels and shared in the main channels of communication of both DAOs.
 
 {% hint style="warning" %}
 As final note, after a successful voting, a series of checks and balances should take place according to previous agreements - e.g. against reputation exploits. Consistent, decentralized accountability practices are highly recommended, like an [Accountability Task Force](https://ecosystem.daoincubator.org/atf/) \(ATF\) or a [Decentralized Accountability Network](https://docs.google.com/document/d/1LLdsYCQi2fDiV2svFEzZGgsYn81cLlcfQ3kE_1OrKwo/edit?usp=sharing) \(DANk\).

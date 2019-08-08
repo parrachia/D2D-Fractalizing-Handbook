@@ -1,3 +1,7 @@
+---
+description: Or How does a DAO go fractal?
+---
+
 # D2D Fractalizing Handbook
 
 \*\*\*\*[**No DAO is an island, entire of itself;** ](https://twitter.com/_dx_dao/status/1134393194467213314)  
@@ -14,13 +18,13 @@ We have separated the general process from the multiple templates we here propos
 
 ## Instructions
 
-This document should be understood more as a conversation than as a manual. It does not pretend to be a paradigm of anything, but a reflection and documentation of the process we currently understand as best practice. It is a basic guide for anyone who is member of DAO considering joining another DAO, or any DAO citizen looking to better understand the possibilities of D2D possibilities and risks.
+This document should be understood more as a conversation than as a manual. It does not pretend to be a paradigm of anything, but a reflection and documentation of the process we currently understand as best practice. It is a basic guide for anyone who is member of DAO considering joining another DAO, or any DAO citizen looking to better understand the possibilities of D2D and its risks.
 
 We believe that the best way to use it is by making it yours and assimilating those parts that are applicable to your DAO. This is not intended to be exhaustive nor does it delve into all the possibilities. You will find that some parts are well defined and others that merely skim the surface. For every process, there are specific steps, but for every step there is no exact tool or instruction to complete them. It is a new process and, as such, there is always room for you to leave your special input.
 
 ## About us
 
-At **DAOincubator** we bring together builders, activists, researchers and investors to user in the age of DAOs. We believe the blockchain and decentralized governance space can benefit greatly from a network of digital and physical locations that are conductive to knowledge production and transfer, cross-pollination, pratical research, grant applications and prototyping.
+At **DAOincubator** we bring together builders, activists, researchers and investors to user in the age of DAOs. We believe the blockchain and decentralized governance space can benefit greatly from a network of digital and physical locations that are conductive to knowledge production and transfer, cross-pollination, practical research, grant applications and prototyping.
 
 Our purpose is to create more successful DAO pilots, through research, experiments and incubation. It requires us to use cutting edge tools for decentralized governance, funding and task allocation as well establishing a future DAO oriented and managed fund.
 
