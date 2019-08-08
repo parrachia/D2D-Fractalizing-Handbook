@@ -6,19 +6,19 @@ In this section we will go over the templates we use and and how we implement th
 
 Even though a proposal can be documented in almost any way, some specific templates have approached the status of Schelling point, facilitating both signaling and screening of the process. 
 
-Previously on genDAO, a proposal successfully validated this list of templates for proposals aiming to be submitted in Alchemy compatible DAOs.  
+Previously on genDAO, a proposal successfully validated this list of templates for proposals aiming to be submitted in Alchemy compatible DAOs. By Pedro Parrachia and Stratis Karadakis.
 
 {% page-ref page="alchemy-proposals.md" %}
 
 ## DAO Pitch Deck
 
-As a great supporting format, presentations have the power to help synthesize and condense information in a way that greatly increases engagement and awareness. Just don't forget to add some memes.
+As a great supporting format, presentations have the power to help synthesize and condense information in a way that greatly increases engagement and awareness. Just don't forget to add some memes. This template was developed by Eric Arsenault as part of the DMO.
 
 {% page-ref page="dao-pitch-deck.md" %}
 
 ## [DAOkitchen](https://docs.google.com/document/d/1erwDj5Xr4S1uPeeNdKZE1A2Mw-gla-0g5SxQZ-AWc90/edit)
 
-DAO kit\(chen\) is a series of canvas that allow for a quite polished process of defining how will a DAO work. Thanks to its molecularity it can also be used to describe how an applicantDAO works.
+DAO kit\(chen\) is a series of canvas that allow for a quite polished process of defining how will a DAO work. Thanks to its molecularity it can also be used to describe how an applicantDAO works. By Felipe Duarte.
 
 From the its documentation:
 
@@ -47,7 +47,7 @@ Video presentations are a chance to introduce your organization in a way that is
 In the document bellow we present some starting guidelines for those interested in presenting their DAOs using a multimedia approach.
 
 {% hint style="info" %}
-It can be both a pre-recorded video and/or a live stream in a community call
+It can be both a pre-recorded video and/or a live stream in a community call.
 {% endhint %}
 
 {% page-ref page="video-guidelines.md" %}

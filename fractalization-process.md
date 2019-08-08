@@ -74,10 +74,10 @@ Some agreements may include:
 * **The applicantDAO**:
   * should read all the basic documentation about the receiverDAO
     * and from there agree with core values and non-negotiable practices
-  *  must abide to a reputation cap policy
+  * must abide to a reputation cap policy
     * limiting the total amount of reputation that any member is allowed to hold, including derivative reputation \(more about drep [here](knowledge-management.md)\)
-  * They must agree to use a specific setup of a multisig and/or dapp \(Alchemy, Gnosis safe\) in order to participate in the voting process
-  * has the right to vote on proposals as they see fit and are themselves free to create proposals at their discretion.
+  * must agree to use a specific setup of a multisig and/or dapp \(Alchemy, Gnosis safe\) in order to participate in the voting process
+  * has the right to vote on proposals as they see fit and are themselves free to create proposals at their discretion
 
 ### 2. Signaling
 
@@ -105,7 +105,8 @@ But it can be much more than that. In our case, [multiple templates](templates/)
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Who is this incoming DAO? Which of their members already belong to genDAO?</li>
+          <li>Who is this incoming DAO? Which of their members already belong to the
+            receiverDAO?</li>
         </ul>
       </td>
     </tr>
@@ -115,7 +116,7 @@ But it can be much more than that. In our case, [multiple templates](templates/)
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>What&#x2019;s the purpose of their DAO? And, if applicable, their business
+          <li>What&#x2019;s the purpose of their DAO, and if applicable, their business
             model/DAO model?</li>
         </ul>
       </td>
@@ -137,7 +138,7 @@ But it can be much more than that. In our case, [multiple templates](templates/)
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Which jurisdictions are involved, which corners of the cyberspace it touches</li>
+          <li>Which jurisdictions are involved, which corners of the cyberspace it touches?</li>
         </ul>
       </td>
     </tr>
@@ -186,7 +187,7 @@ More mature DAOs will most likely have extensive documentation about itself whil
 * How the fractalization helps promote the receiverDAO's objectives
 * A rationale for the resources requested 
 * Conditions for the deliverables, if any.
-* Materials, documentation, external references to support above points
+* Materials, documentation, external references to support the points above
 * On certain occasions, examples of other proposals.
 
 Although accepting or rejecting a proposal may make a priori seem like a rational decision, much of it is based on the emotional. For this reason, we must never neglect the detail, narrative, and graphics quality of our proposals: it must be a reflection of what it's being offering and be clearly aligned with the identity and culture of our study.
@@ -194,7 +195,7 @@ Although accepting or rejecting a proposal may make a priori seem like a rationa
 Once the proposal has been approved, where the services are to be carried out and the objectives to be achieved have been defined, they are documented in the proper channels and shared in the main channels of communication.
 
 {% hint style="warning" %}
-In a final note, after a successful voting, a series of checks and balances should take place according to the previous agreements - e.g. against reputation exploits. Consistent, decentralized accountability practices are highly recommended, like an [Accountability Task Force](https://ecosystem.daoincubator.org/atf/) \(ATF\) or a [Decentralized Accountability Network](https://docs.google.com/document/d/1LLdsYCQi2fDiV2svFEzZGgsYn81cLlcfQ3kE_1OrKwo/edit?usp=sharing) \(DANk\)
+In a final note, after a successful voting, a series of checks and balances should take place according to the previous agreements - e.g. against reputation exploits. Consistent, decentralized accountability practices are highly recommended, like an [Accountability Task Force](https://ecosystem.daoincubator.org/atf/) \(ATF\) or a [Decentralized Accountability Network](https://docs.google.com/document/d/1LLdsYCQi2fDiV2svFEzZGgsYn81cLlcfQ3kE_1OrKwo/edit?usp=sharing) \(DANk\).
 {% endhint %}
 
 {% page-ref page="templates/" %}
