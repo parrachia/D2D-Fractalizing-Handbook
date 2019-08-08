@@ -1,12 +1,16 @@
+---
+description: Hello world
+---
+
 # D2D Fractalizing Handbook
 
-[**No DAO is an island, entire of itself;** ](https://twitter.com/_dx_dao/status/1134393194467213314)  
+\*\*\*\*[**No DAO is an island, entire of itself;** ](https://twitter.com/_dx_dao/status/1134393194467213314)  
 ****[**every DAO is a piece of the ecosystem,** ](https://twitter.com/_dx_dao/status/1134393194467213314)  
-****[**a part of the main**](https://twitter.com/_dx_dao/status/1134393194467213314)
+****[**a part of the main**](https://twitter.com/_dx_dao/status/1134393194467213314)\*\*\*\*
 
 ## Introduction
 
-The D2D Fractalizing Handbook is a practical guide that reflects our current understandings of best practices for inter DAOs membership granting. This project was born out of the need to create an explanatory document for future DAOs and its members, and is made public thanks to GenDAO microgrant and our desire to contribute to the community. Our objective for this project is to improve, systematize, unify internal processes and make DAO-to-DAO reputation requests as transparent as possible.
+The D2D Fractalizing Handbook is a practical guide that reflects our current understandings of best practices for inter DAOs membership granting. This project was born out of the need to create an explanatory document for future DAOs and its members, and is made public thanks to [GenDAO microgrant ](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830/proposal/0x335a462c458fa06fa6d400cfdb3ebd309e3800e6014df1e6d4ba52673c3c4e81)and our desire to contribute to the community. Our objective for this project is to improve, systematize, unify internal processes and make DAO-to-DAO reputation requests as transparent as possible.
 
 We structured this handbook by going over the general themes first and from there, divulging into the more specific. The idea is to provide one, with a simple, yet solid, intro to the subject matter with an overview of the process, practical steps and its resources.
 
@@ -28,9 +32,9 @@ We’re building a coordinated ecosystem of open collaboration, where people wit
 
 In this project:
 
-\*\*\*\*[**Adam Reese**](https://twitter.com/OneAdamReese) ****- Giveth, MIT Press, DAOincubator, Trojan Foundation  
-****[**Beth McCarthy**](https://twitter.com/ontologymachine) **-** Cofounder and research + design lead at Starfish Network and DAOincubator  
-[**Pedro Parrachia**](https://twitter.com/parrachia) **-** Long term DAO citizen, DAOincubator, blockchain ecology R&D. 
+\*\*\*\*[Adam Reese](https://twitter.com/OneAdamReese) ****- Giveth, MIT Press, DAOincubator, Trojan Foundation  
+****[Beth McCarthy](https://twitter.com/ontologymachine) **-** Cofounder and research + design lead at Starfish Network and DAOincubator  
+[Pedro Parrachia](https://twitter.com/parrachia) **-** Long term DAO citizen, DAOincubator, blockchain ecology R&D. 
 
 DAOincubator partners:
 

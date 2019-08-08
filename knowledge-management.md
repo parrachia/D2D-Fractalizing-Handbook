@@ -1,3 +1,7 @@
+---
+description: “Assumptions are the termites of relationships.” Henry Winkler
+---
+
 # Knowledge Management
 
 The fractalization of DAOs has several implications on the topology of the DAO space, in the sense that a series of new DAO shapes and relations become possible once DAOs can join DAOs. In this section, we’ve taken a stab at defining these new forms and some related concepts and we will share our basic conceptualization at different levels. Finally we will take it further by attempting at illustrating some of them. 

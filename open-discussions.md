@@ -1,3 +1,10 @@
+---
+description: >-
+  The greatest problem with communication is we don’t listen to understand. We
+  listen to reply. When we listen with curiosity, we listen for what’s behind
+  the words."
+---
+
 # Open Discussions
 
 ## Problem-Solution Proposition

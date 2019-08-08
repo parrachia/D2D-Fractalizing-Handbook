@@ -10,6 +10,12 @@ Previously on genDAO, a proposal successfully validated this list of templates f
 
 {% page-ref page="alchemy-proposals.md" %}
 
+## DAO Pitch Deck
+
+As a great supporting format, presentations have the power to help synthesize and condense information in a way that greatly increases engagement and awareness. Just don't forget to add some memes.
+
+{% page-ref page="dao-pitch-deck.md" %}
+
 ## [DAOkitchen](https://docs.google.com/document/d/1erwDj5Xr4S1uPeeNdKZE1A2Mw-gla-0g5SxQZ-AWc90/edit)
 
 DAO kit\(chen\) is a series of canvas that allow for a quite polished process of defining how will a DAO work. Thanks to its molecularity it can also be used to describe how an applicantDAO works.
@@ -32,7 +38,7 @@ A form can be a great asset for any DAO considering opening itself for fractaliz
 
 What follows bellow is a long list of questions that can be freely answered or skipped. From raison d'être, to business plan, to partners and beyond. 
 
-{% embed url="https://forms.gle/7KGSLTyRjt55Uhcc9" %}
+{% page-ref page="form.md" %}
 
 ## [Video Presentation](https://docs.google.com/document/d/1oilPFlKq13So82LxYouvmoiNNVH1VE7rKfwCsaTLyLA/edit?usp=sharing)
 
