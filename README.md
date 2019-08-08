@@ -34,7 +34,7 @@ In this project:
 
 \*\*\*\*[Adam Reese](https://twitter.com/OneAdamReese) ****- Giveth, MIT Press, DAOincubator, Trojan Foundation  
 ****[Beth McCarthy](https://twitter.com/ontologymachine) **-** Cofounder and research + design lead at Starfish Network and DAOincubator  
-[Pedro Parrachia](https://twitter.com/parrachia) **-** Long term DAO citizen, DAOincubator, blockchain ecology R&D. 
+[Pedro Parrachia](https://twitter.com/parrachia) **-** Long term DAO citizen, Rhizom, ECSA, DAOincubator, blockchain ecology R&D. 
 
 DAOincubator partners:
 
