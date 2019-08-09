@@ -14,7 +14,7 @@ A brief comment about the limitations of systematics: A guy once tweeted he drea
 
 When a DAO accepts another DAO as its member, usually by reputation granting. There are 2 main ways that a DAO can fractalize: one is the emergence of a DAO inside another DAO \(subDAO\), and the other is for one DAO to grant voting power to another DAO \(interDAO\).‌
 
-From the multiple and sometimes confusing dynamics that fractalizing brings, we work a nomenclature around their objectives. We distinguish five types of DAO according to their objectives: **subDAO**, **interDAO**, **applicantDAO**, **receiverDAO** and **preDAO**.
+From the multiple and sometimes confusing dynamics that fractalizing brings, we work a nomenclature around their objectives. We distinguish five types of DAO according to their intentions: **subDAO**, **interDAO**, **applicantDAO**, **receiverDAO** and **preDAO**.
 
 ### subDAO‌
 
