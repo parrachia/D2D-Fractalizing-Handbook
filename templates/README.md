@@ -26,9 +26,9 @@ As a great supporting format, presentations have the power to help synthesize an
 
 ## [DAO Design Canvas](https://docs.google.com/document/d/1erwDj5Xr4S1uPeeNdKZE1A2Mw-gla-0g5SxQZ-AWc90/edit)
 
-DAO Design Canvas \(aka DAOkitchen\)A kit for understanding and prototyping DAO Pilots in a Workshop / Sprint scenario that delivers highly qualified leads & user testing data. Thanks to its molecularity it can also be used to describe how an applicantDAO works. By Felipe Duarte.
+DAO Design Canvas \(aka DAOkitchen\) is "a kit for understanding and prototyping DAO Pilots in a Workshop / Sprint scenario that delivers highly qualified leads & user testing data". Thanks to its molecularity it can also be used to describe how an applicantDAO works. By Felipe Duarte.
 
-From the its documentation:
+From its documentation:
 
 * DAO building methodology template 
 * Script for facilitated workshop
@@ -47,7 +47,7 @@ Video presentations are a chance to introduce your organization in a way that is
 In the document bellow we present some starting guidelines for those interested in presenting their DAOs using a multimedia approach.
 
 {% hint style="info" %}
-It can be both a pre-recorded video and/or a live stream in a community call.
+It can be both a pre-recorded video and/or a live stream during a community call.
 {% endhint %}
 
 {% page-ref page="video-guidelines.md" %}
