@@ -32,7 +32,7 @@ A candidate subDAO or interDAO in the process of requesting membership - usually
 
 A "parent" or "granter" DAO in the process of deliberating about the recognizing a subDAO or interDAO as its member, usually by voting on a reputation request.
 
-![](.gitbook/assets/selection_077.png)
+![](.gitbook/assets/selection_079.png)
 
 ## preDAO
 
@@ -67,6 +67,8 @@ A new attack vector from D2D interactions: if too many members of one or more in
 ### Trojan Horse
 
 When an agreement \(usually from a proposal\) is followed or delivered differently from what was proposed and eventually benefits an interDAO in detriment of the receiverDAO. 
+
+![](.gitbook/assets/selection_078.png)
 
 **Mitigation**: active, healthy, decentralized accountability practices.
 
