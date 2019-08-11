@@ -4,9 +4,9 @@ description: Or How does a DAO go fractal?
 
 # D2D Fractalizing Handbook
 
-\*\*\*\*[**No DAO is an island, entire of itself;** ](https://twitter.com/_dx_dao/status/1134393194467213314)  
-****[**every DAO is a piece of the ecosystem,** ](https://twitter.com/_dx_dao/status/1134393194467213314)  
-****[**a part of the main**](https://twitter.com/_dx_dao/status/1134393194467213314)\*\*\*\*
+\*\*\*\*[**No DAO is an island, entire of itself;   
+every DAO is a piece of the ecosystem,   
+a part of the main**](https://twitter.com/parrachia/status/1160394732490690560)\*\*\*\*
 
 ## Introduction
 
