@@ -7,7 +7,7 @@ description: “Assumptions are the termites of relationships.” Henry Winkler
 The fractalization of DAOs has several implications on the topology of the DAO space, in the sense that a series of new DAO shapes and relations become possible once DAOs can join DAOs. In this section, we’ve taken a stab at defining these new forms, some related concepts and we will share our basic conceptualization at different levels. Finally we will take it further by attempting at illustrating some of them. 
 
 {% hint style="warning" %}
-A brief comment about the limitations of systematics: A guy once tweeted he dreamed being interviewed about taxonomy “Are hotdogs sandwiches?” he was asked. “They’re edge cases that prove how limited our taxonomical models are.”
+A brief comment about the limitations of systematics: A guy once tweeted he dreamed being interviewed about taxonomy, “Are hotdogs sandwiches?” he was asked. “They’re an edge case that prove how limited our taxonomical models are.”
 {% endhint %}
 
 ## Fractalizing
