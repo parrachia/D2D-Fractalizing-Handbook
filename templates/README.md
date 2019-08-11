@@ -38,7 +38,7 @@ From its documentation:
 * End result is a brief for developers
 * Delivers consistent validation data
 
-{% embed url="https://www.google.com/url?q=https://drive.google.com/drive/folders/1JVnVQOS3tGw\_GtFfzjNjlvLqamp17sZH&sa=D&ust=1564722945009000&usg=AFQjCNFY4WcHRdWal8w9eZ7mpsVY91afrQ" %}
+{% page-ref page="daokitchen.md" %}
 
 ## [Video Presentation](https://docs.google.com/document/d/1oilPFlKq13So82LxYouvmoiNNVH1VE7rKfwCsaTLyLA/edit?usp=sharing)
 

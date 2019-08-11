@@ -172,7 +172,7 @@ This “presentation” could be a forum thread, a complete AMA, or a pre-record
 
 ### **3. Proposal**
 
-The fractalizations are born from the DAOs' needs. DAO citizens reach out to each other and after **introductions** are made**,** the receiverDAO may present its needs and requirements through **orientation**, be it with documentation, onboarding session or both. ****Based on this, a **proposal** can be formalized, materializing compatible ideas, objectives and agreements that the applicantDAO can offer to provide value to the ecosystem.
+The fractalization is born from the DAOs' needs. DAO citizens reach out to each other and after **introductions** are made**,** the receiverDAO may present its needs and requirements through **orientation**, be it with documentation, onboarding session or both. ****Based on this, a **proposal** can be formalized, materializing compatible ideas, objectives and agreements that the applicantDAO can offer to provide value to the ecosystem.
 
 {% hint style="info" %}
 More mature DAOs will most likely have extensive documentation about itself while preDAOs might produce information on demand. 
@@ -184,7 +184,7 @@ More mature DAOs will most likely have extensive documentation about itself whil
 * About the proposers, with comms channels
 * A detailed description of the applicantDAO
 * When applicable, a roadmap with estimate of the stages deadlines 
-* How the fractalization helps promote the receiverDAO's objectives
+* How the fractalizing helps promote the receiverDAO's objectives
 * A rationale for the resources requested 
 * Conditions for the deliverables, if any.
 * Materials, documentation, external references to support the points above
