@@ -1,5 +1,5 @@
 ---
-description: Or How does a DAO go fractal?
+description: Or how does a DAO go fractal?
 ---
 
 # D2D Fractalizing Handbook
