@@ -60,7 +60,7 @@ A measure of the amount of reputation power that individuals wield in a DAO as a
 
 A new attack vector from D2D interactions: if too many members of one or more interDAO join a receiverDAO, at some point it tips the scale, allowing for biased, unbalanced voting power in detriment of other interDAOs and even the receiverDAO itself.
 
-![](.gitbook/assets/selection_080.png)
+![](.gitbook/assets/selection_083.png)
 
 **Mitigation:** "trusted setup", when a DAO first decides to fractalize, it should aim at onboarding as many "trusted" or simply "healthy" DAOs as possible, granting a much bigger threshold against such risk. 
 
