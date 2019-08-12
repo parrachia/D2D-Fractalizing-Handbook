@@ -1,3 +1,9 @@
+---
+description: >-
+  "Language is not simply a reporting device for experience but a defining
+  framework for it." Benjamin Whorf
+---
+
 # Templates
 
 In this section we will go over the templates we use and and how we implement them throughout our fractalization process. We talk about the purpose of each template and how we work with them in a way that helps us carry things in an open and transparent way.
