@@ -22,7 +22,7 @@ The literal fractal DAO; one which exists inside a DAO, such that all of its ope
 
 ### interDAO
 
-A DAO which holds voting power in genDAO but is not a subDAO of the receiverDAO, i.e. it also operates outside of it.‌
+A DAO which holds voting power in receiverDAO but is not a subDAO of the receiverDAO, i.e. it also operates outside of it.‌
 
 ### applicantDAO
 
