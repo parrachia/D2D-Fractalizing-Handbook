@@ -32,7 +32,7 @@ A candidate subDAO or interDAO in the process of requesting membership - usually
 
 A "parent" or "granter" DAO in the process of deliberating about the recognizing a subDAO or interDAO as its member, usually by voting on a reputation request.
 
-![](.gitbook/assets/selection_079.png)
+![](.gitbook/assets/selection_088.png)
 
 ## preDAO
 
