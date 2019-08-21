@@ -22,7 +22,7 @@ This document should be understood more as a conversation than as a manual. It d
 
 We believe that the best way to use it is by making it yours and assimilating those parts that are applicable to your DAO. This is not intended to be exhaustive nor does it delve into all the possibilities. You will find that some parts are well defined and others that merely skim the surface. For every process, there are specific steps, but for every step there is no exact tool or instruction to complete them. It is a new process and, as such, there is always room for you to leave your special input.
 
-Besides the **pages menu** at the left, **pages navigation** at the bottom and **list of contents** for each page at the right, thanks to gitbook, this handbook includes a **search** feature above the pages menu and a **feedback** feature bellow the navigation.
+Besides the **pages menu** to the left, **pages navigation** to the bottom and **list of contents** for each page to the right, thanks to [Gitbook](https://gitbook.com), this handbook includes a **search** feature above the pages menu and a **feedback** feature bellow the navigation.
 
 ## About us
 
